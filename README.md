@@ -5,10 +5,10 @@ Formulas for h_{n, d(n) - k} for sufficiently large n and k = 5, 6, 7 given in t
 
 Build with 
 
-g++ h.cpp -o h
+`g++ h.cpp -o h`
 
 and run with
 
-./h n k
+`./h n k`
 
 for n sufficiently large with respect to k.
