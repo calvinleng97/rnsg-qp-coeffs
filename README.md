@@ -11,4 +11,4 @@ and run with
 
 `./h n k`
 
-for n sufficiently large with respect to k.
+for <a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;n" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;n" title="\large n" /></a> sufficiently large with respect to <a href="https://www.codecogs.com/eqnedit.php?latex=\large&space;k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\large&space;k" title="\large k" /></a>.
