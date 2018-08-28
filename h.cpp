@@ -5,7 +5,9 @@
 
     Author: Calvin Leng
 
-    Computes h_{n, d(n) - k}.
+    Computes h_{n, d(n) - k} for sufficiently large n with respect to k, 
+    i.e. the number of numerical semigroups S such that e(S) = d(n) - k,
+    n not in S, and with minimal generating set A such that A < n / 2.
 */
 
 #include <stdlib.h>
